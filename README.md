@@ -13,3 +13,5 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+
+   #### Este projeto é um clone do template disponibilizado nas aulas. Assim, de acordo com o que foi pedido para atividade foram feitas alterações de layout.
